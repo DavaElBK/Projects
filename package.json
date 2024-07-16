@@ -1,0 +1,14 @@
+{
+  "name": "my_portfolio",
+  "version": "1.0.0",
+  "description": "Modern Portfolio Website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/"
+  },
+  "author": "Dawit B Kassie",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
